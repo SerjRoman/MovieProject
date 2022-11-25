@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(90deg, rgba(20,20,20,1) 0%, rgba(0,212,255,1) 100%);
+}
+.main-block{
+    border: 3px solid black;
+    border-radius: 3px;
+    padding: 3%;
+    margin: auto;
+}
+img{
+    border: 3px solid black;
+    border-radius: 3px;
+    position: absolute;
+    left: 2%;
+    margin: auto;
+}
+body div div{
+    margin: 10% 10% 10% 50%;
+}
+.list{
+    color: red solid;
+}

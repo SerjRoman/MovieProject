@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(58,45,253,1) 100%);
+}
+.base{
+    margin-left: 50px;
+    border: 3px solid;
+    padding: 20px;
+}
+.base22{
+    position: absolute;
+    left: 75%;
+    top: 10%;
+}
+
+
+.h1{
+    left: 35%;
+    position: absolute;
+    top: 10%;
+}
+
+.p1{
+    position: absolute;
+    top: 25%;
+    
+}

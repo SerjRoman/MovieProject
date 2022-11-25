@@ -1,0 +1,32 @@
+*  {
+    border-radius: 10px;
+}
+
+body{
+    background-color: rgb(251, 251, 251);
+    display: flex;
+    justify-content: center;
+}
+
+.img{
+    border:5px solid rgb(0,0,0);
+    border-radius: 3px ;
+    width: 200px;
+    height: 200px;
+}
+
+.main_block{
+    padding:10px; 
+    border:5px solid rgb(0,0,0);
+    height: 500px;
+    width: 900px;
+    position: relative;
+    top: 100px;
+
+}
+
+.text_k{
+    position: absolute;
+    width: 50%;
+    margin: 25%;
+}
